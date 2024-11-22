@@ -1,6 +1,4 @@
 # PettingZooPlanner
-Certainly! Here's a README for your Zoo School Visit Planner project that demonstrates the fundamentals of methods in C#:
-
 ---
 
 # Zoo School Visit Planner
