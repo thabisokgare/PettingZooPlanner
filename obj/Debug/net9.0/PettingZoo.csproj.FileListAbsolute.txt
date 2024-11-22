@@ -1,0 +1,15 @@
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.AssemblyInfoInputs.cache
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.AssemblyInfo.cs
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.csproj.CoreCompileInputs.cache
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.sourcelink.json
+C:\Users\thabi\PettingZoo\bin\Debug\net9.0\PettingZoo.exe
+C:\Users\thabi\PettingZoo\bin\Debug\net9.0\PettingZoo.deps.json
+C:\Users\thabi\PettingZoo\bin\Debug\net9.0\PettingZoo.runtimeconfig.json
+C:\Users\thabi\PettingZoo\bin\Debug\net9.0\PettingZoo.dll
+C:\Users\thabi\PettingZoo\bin\Debug\net9.0\PettingZoo.pdb
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.dll
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\refint\PettingZoo.dll
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.pdb
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\PettingZoo.genruntimeconfig.cache
+C:\Users\thabi\PettingZoo\obj\Debug\net9.0\ref\PettingZoo.dll
